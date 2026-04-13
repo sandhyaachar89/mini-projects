@@ -61,12 +61,10 @@ A billing system that allows users to add products to cart and generate bills.
 * Add items to cart
 * View cart details
 * Generate bill with GST calculation
-* Save bills in JSON file
 * View previous bills
 
 #### 🛠️ Concepts Used:
 
-* File handling (JSON)
 * Data structures (lists & dictionaries)
 * Object-Oriented Programming
 * Billing logic with tax calculation
@@ -76,7 +74,6 @@ A billing system that allows users to add products to cart and generate bills.
 ## 🛠️ Technologies Used
 
 * **Python**
-* **JSON**
 * **Datetime Module**
 
 ---
